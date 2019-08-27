@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>loaner_details</element>
+        <name>x_cdltd_test_demo_loaner_request</name>
+        <style>bakcgroud;green</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-26 11:29:09</sys_created_on>
+        <sys_id>b9f3323831e333007f440593af10346f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_cdltd_test_demo_loaner_request</sys_name>
+        <sys_package display_value="Test Demo" source="x_cdltd_test_demo">489d8db4316333007f440593af10347d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Demo">489d8db4316333007f440593af10347d</sys_scope>
+        <sys_update_name>sys_ui_style_b9f3323831e333007f440593af10346f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-26 11:32:21</sys_updated_on>
+        <value/>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=b9f3323831e333007f440593af10346f"/>
+</record_update>

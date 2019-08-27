@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="Loaner Request" max_length="40" name="x_cdltd_test_demo_loaner_request" type="collection">
+    <element extends="task" label="Loaner Request" max_length="40" name="x_cdltd_test_demo_loaner_request" sizeclass="1" type="collection">
         <element label="Details" max_length="120" name="details" reference="x_cdltd_test_demo_for_ref" type="string"/>
+        <element default="Testing" display="true" hint="Testing Hint" label="Loaner Details" max_length="100" name="loaner_details" type="string"/>
     </element>
 </database>

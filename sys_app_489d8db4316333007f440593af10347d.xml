@@ -17,21 +17,21 @@
         <scoped_administration>false</scoped_administration>
         <short_description/>
         <source>x_cdltd_test_demo</source>
-        <store_correlation_id>REPOAPP0000001002</store_correlation_id>
+        <store_correlation_id>REPOAPP0000001003</store_correlation_id>
         <store_url/>
         <sys_class_name>sys_app</sys_class_name>
         <sys_code/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-08-26 04:01:24</sys_created_on>
         <sys_id>489d8db4316333007f440593af10347d</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-26 09:36:12</sys_updated_on>
+        <sys_updated_on>2019-08-27 06:03:42</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.0.1</version>
+        <version>1.0.2</version>
     </sys_app>
 </record_update>
