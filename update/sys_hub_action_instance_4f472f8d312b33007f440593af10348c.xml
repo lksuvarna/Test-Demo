@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Send Email">98c181d20b100300d97d8bf637673ab5</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="loaner flow">c5f5ab4d312b33007f440593af1034f3</flow>
+        <order>3</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 09:51:32</sys_created_on>
+        <sys_id>4f472f8d312b33007f440593af10348c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test Demo" source="x_cdltd_test_demo">489d8db4316333007f440593af10347d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Demo">489d8db4316333007f440593af10347d</sys_scope>
+        <sys_update_name>sys_hub_action_instance_4f472f8d312b33007f440593af10348c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 09:51:32</sys_updated_on>
+        <ui_id>e9385cf2-168a-42bc-946e-afe98b3aa6c8</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=4f472f8d312b33007f440593af10348c"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>4f472f8d312b33007f440593af10348c</document_key>
+        <order>4</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 09:51:33</sys_created_on>
+        <sys_id>0f472f8d312b33007f440593af103492</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 09:51:33</sys_updated_on>
+        <value>&lt;p&gt;completed&lt;/p&gt;</value>
+        <variable display_value="">c71241160b100300d97d8bf637673a55</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>4f472f8d312b33007f440593af10348c</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 09:51:33</sys_created_on>
+        <sys_id>4b472f8d312b33007f440593af103492</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 09:51:33</sys_updated_on>
+        <value>lksuvarna@in.ibm.com</value>
+        <variable display_value="">f61205d20b100300d97d8bf637673ac2</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>4f472f8d312b33007f440593af10348c</document_key>
+        <order>3</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 09:51:33</sys_created_on>
+        <sys_id>cf472f8d312b33007f440593af103492</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 09:51:33</sys_updated_on>
+        <value>testing approval</value>
+        <variable display_value="">b21241160b100300d97d8bf637673a4a</variable>
+    </sys_variable_value>
+</record_update>

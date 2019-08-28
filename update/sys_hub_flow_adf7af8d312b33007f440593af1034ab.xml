@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>test2</internal_name>
+        <label_cache>[{"name":"Created_1.current","label":"Trigger➛Loaner Request Record","reference":"x_cdltd_test_demo_loaner_request","reference_display":"Loaner Request","type":"reference","base_type":"reference"},{"name":"e5cb6a74-20e2-4d70-ae8a-73cda1fa8f36.Record","label":"1➛Loaner Request Record","reference":"x_cdltd_test_demo_loaner_request","reference_display":"Loaner Request","type":"reference","base_type":"reference"},{"name":"e5cb6a74-20e2-4d70-ae8a-73cda1fa8f36.Table","label":"1➛Loaner Request Table","reference":"x_cdltd_test_demo_loaner_request","reference_display":"Loaner Request","type":"table_name","base_type":"table_name"},{"name":"1077eb84-9541-4a26-ab63-108ae4451cc1.record","label":"2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"1077eb84-9541-4a26-ab63-108ae4451cc1.table_name","label":"2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"Updated_1.current","label":"Trigger➛Loaner Request Record","reference":"x_cdltd_test_demo_loaner_request","reference_display":"Loaner Request","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>test2</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 09:54:27</sys_created_on>
+        <sys_id>adf7af8d312b33007f440593af1034ab</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>test2</sys_name>
+        <sys_package display_value="Test Demo" source="x_cdltd_test_demo">489d8db4316333007f440593af10347d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Demo">489d8db4316333007f440593af10347d</sys_scope>
+        <sys_update_name>sys_hub_flow_adf7af8d312b33007f440593af1034ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 10:02:07</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=adf7af8d312b33007f440593af1034ab"/>
+    <sys_variable_value action="delete_multiple" query="document_key=adf7af8d312b33007f440593af1034ab"/>
+</record_update>

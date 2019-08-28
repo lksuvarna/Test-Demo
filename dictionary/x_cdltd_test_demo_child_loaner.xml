@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="child loaner" max_length="40" name="x_cdltd_test_demo_child_loaner" type="collection">
+        <element label="childid" max_length="40" name="childid" type="string"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="glide_list">
+            <choice>
+                <element inactive_on_update="false" label="closechild" value="closechild"/>
+                <element inactive_on_update="false" label="openchild" value="openchild"/>
+            </choice>
+        </element>
+    </element>
+</database>

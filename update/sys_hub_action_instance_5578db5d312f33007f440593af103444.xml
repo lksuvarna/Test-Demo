@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Create Record">02f0b88cc3c632002841b63b12d3aeff</action_type>
+        <action_type_parent/>
+        <comment/>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="newflow">d4a7975d312f33007f440593af1034c3</flow>
+        <order>1</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-28 03:25:11</sys_created_on>
+        <sys_id>5578db5d312f33007f440593af103444</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Test Demo" source="x_cdltd_test_demo">489d8db4316333007f440593af10347d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Demo">489d8db4316333007f440593af10347d</sys_scope>
+        <sys_update_name>sys_hub_action_instance_5578db5d312f33007f440593af103444</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-28 03:25:11</sys_updated_on>
+        <ui_id>0ea5da66-5e68-4b9d-95b2-fb2b0e0c1c0b</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=5578db5d312f33007f440593af103444"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5578db5d312f33007f440593af103444</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-28 03:25:11</sys_created_on>
+        <sys_id>1178db5d312f33007f440593af10344b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-28 03:25:11</sys_updated_on>
+        <value>x_cdltd_test_demo_child_loaner</value>
+        <variable display_value="">0352fc8cc3c632002841b63b12d3ae12</variable>
+    </sys_variable_value>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>5578db5d312f33007f440593af103444</document_key>
+        <order>1</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-28 03:25:11</sys_created_on>
+        <sys_id>5d78db5d312f33007f440593af10344a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-28 03:25:11</sys_updated_on>
+        <value>status=openchild</value>
+        <variable display_value="">8b52fc8cc3c632002841b63b12d3ae36</variable>
+    </sys_variable_value>
+</record_update>

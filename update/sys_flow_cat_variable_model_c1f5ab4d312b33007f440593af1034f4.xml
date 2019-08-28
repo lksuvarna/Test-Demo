@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>c5f5ab4d312b33007f440593af1034f3</id>
+        <name>loaner flow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 09:45:40</sys_created_on>
+        <sys_id>c1f5ab4d312b33007f440593af1034f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>loaner flow</sys_name>
+        <sys_package display_value="Test Demo" source="x_cdltd_test_demo">489d8db4316333007f440593af10347d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Demo">489d8db4316333007f440593af10347d</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_c1f5ab4d312b33007f440593af1034f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 09:45:40</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

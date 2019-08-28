@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_cdltd_test_demo.child_loaner_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>child_loaner_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 10:07:09</sys_created_on>
+        <sys_id>a7daafcd312b33007f440593af1034a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_test_demo.child_loaner_user</sys_name>
+        <sys_package display_value="Test Demo" source="x_cdltd_test_demo">489d8db4316333007f440593af10347d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Demo">489d8db4316333007f440593af10347d</sys_scope>
+        <sys_update_name>sys_user_role_a7daafcd312b33007f440593af1034a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 10:07:09</sys_updated_on>
+    </sys_user_role>
+</record_update>

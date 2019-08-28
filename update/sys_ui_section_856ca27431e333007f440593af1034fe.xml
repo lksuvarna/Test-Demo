@@ -3,11 +3,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-26 11:27:13</sys_created_on>
-            <sys_id>a2937ef431e333007f440593af1034a3</sys_id>
+            <sys_created_on>2019-08-27 08:08:50</sys_created_on>
+            <sys_id>5ecf47c1312b33007f440593af103491</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-26 11:27:13</sys_updated_on>
+            <sys_updated_on>2019-08-27 08:08:50</sys_updated_on>
             <text>Welcome to Loaner Application</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -15,29 +15,43 @@
             <element>loaner_details</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-26 11:27:13</sys_created_on>
-            <sys_id>6a937ef431e333007f440593af1034a3</sys_id>
+            <sys_created_on>2019-08-27 08:08:50</sys_created_on>
+            <sys_id>16cf47c1312b33007f440593af103492</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Annotation" display_value="Annotation" name="x_cdltd_test_demo_loaner_request" sys_domain="global" view="cd6ca27431e333007f440593af1034f9">856ca27431e333007f440593af1034fe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-26 11:27:13</sys_updated_on>
+            <sys_updated_on>2019-08-27 08:08:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>a2937ef431e333007f440593af1034a3</element>
+            <element>5ecf47c1312b33007f440593af103491</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2019-08-26 11:27:13</sys_created_on>
-            <sys_id>ea937ef431e333007f440593af1034a3</sys_id>
+            <sys_created_on>2019-08-27 08:08:50</sys_created_on>
+            <sys_id>96cf47c1312b33007f440593af103492</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Annotation" display_value="Annotation" name="x_cdltd_test_demo_loaner_request" sys_domain="global" view="cd6ca27431e333007f440593af1034f9">856ca27431e333007f440593af1034fe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-08-26 11:27:13</sys_updated_on>
+            <sys_updated_on>2019-08-27 08:08:50</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>model</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-27 08:08:50</sys_created_on>
+            <sys_id>1acf47c1312b33007f440593af103492</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Annotation" display_value="Annotation" name="x_cdltd_test_demo_loaner_request" sys_domain="global" view="cd6ca27431e333007f440593af1034f9">856ca27431e333007f440593af1034fe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-27 08:08:50</sys_updated_on>
+            <sys_user/>
+            <type/>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Annotation</caption>
